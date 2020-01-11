@@ -1,4 +1,19 @@
-# Team Work
+# Final Team Reports
+
+|小组　| 组员  |　报告　|
+|:----:|:-----:|:-------:|
+|量子程序编译优化|张灏文、周恩帅 |　|
+|量子线路|韦作霖、陈铭瑜 | |
+|.NET在龙芯平台的移植与优化|任俊屹、黄业琦、魏剑宇 |[interim](proj/dotnot1.pdf), [final](proj/dotnet2.pdf)|
+|面向ML的编译|刘硕、毕超、郭雨轩、金朔苇  |[interim](proj/c4ml1.pdf), [final](proj/c4ml2.pdf)|
+|多语言程序分析| 张俸铭、樊金昊、宁雨亭、周天尧、张德鑫|[final](proj/pa.pdf) |
+|C Spec Checker理解|刘旭铠、陈昂、琚泽谦、张铭哲、沈沛祺、詹佑翊、万琪||
+|Playing with LLVM Backend|刘紫檀、许睿达||
+|内建函数调研|张欣瑞||
+
+
+
+# Team Work选题
 
 每个同学可以从下面的[选题](#选题)中选择题目开展团队调研、分析、设计、实现和评测工作，定期开展交流并作记录等。
 专题A~
